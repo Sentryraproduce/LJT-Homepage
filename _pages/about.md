@@ -9,10 +9,10 @@ redirect_from:
 
 ## About Me
 
-I am a first-year PhD candidate at the [HKUST NLP Group](https://github.com/HKUST-NLP),
-Hong Kong University of Science and Technology, advised by Prof. Junxian He. I received my
-B.Eng. from Shanghai Jiao Tong University (SJTU) in June 2024. My research focuses on natural
-language processing and machine learning.
+I am a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of Science and
+Technology, advised by Prof. Junxian He. I received my B.Eng. from Shanghai Jiao Tong
+University (SJTU) in June 2024. My research focuses on natural language processing and
+machine learning.
 
 ## Education
 
