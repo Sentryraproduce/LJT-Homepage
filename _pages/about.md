@@ -64,7 +64,7 @@ machine learning.
   *Composing Parameter-Efficient Modules with Arithmetic Operations.*
   NeurIPS 2023. (Co-author.)
 
-See the [Publications page](/publications/) for the full list.
+See the [Publications page](publications/) for the full list.
 
 ## Awards
 
